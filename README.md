@@ -8,4 +8,5 @@ Highlights :
 - Mapping visualization
 
 This case provided for the final project of Data Analyst with Python and SQL Bootcamp by DQLAB
-The completed script might be seen through Google Colab
+
+The completed script might be seen fully through Google Colab
